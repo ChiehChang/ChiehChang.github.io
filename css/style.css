@@ -2598,7 +2598,7 @@ section h3.section-subheading { margin: 0; text-transform: none; font-family: "D
 
 .timeline .timeline-heading h4 { margin-top: 0; color: inherit; }
 
-.timeline .timeline-heading h4.subheading { text-transform: none; }
+.timeline .timeline-heading h4.subheading { text-transform: none; line-height: 25px;}
 
 .timeline .timeline-body > p, .timeline .timeline-body > ul { margin-bottom: 0; }
 
